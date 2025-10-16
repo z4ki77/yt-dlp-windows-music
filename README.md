@@ -6,15 +6,15 @@ A simple Windows batch script to download music and playlists from YouTube and c
 
 ✨ Features
 
-· ✅ Download single videos or complete playlists.
-· ✅ Automatic conversion to MP3 (maximum quality).
-· ✅ Embed thumbnails and metadata automatically.
-· ✅ Fast download mode (optional, without thumbnails).
+· ✅ Download single videos or complete playlists 
+· ✅ Automatic conversion to MP3 (maximum quality) 
+· ✅ Embed thumbnails and metadata automatically 
+· ✅ Fast download mode (optional, without thumbnails) 
 · ✅ Organized by playlist folders.
-· ✅ Visual progress bar.
-· ✅ Auto-cleanup of temporary files (.json, .webp, .webm).
-· ✅ Retry on errors with infinite retries.
-· ✅ Support for aria2 (optional, for faster downloads).
+· ✅ Visual progress bar 
+· ✅ Auto-cleanup of temporary files (.json, .webp, .webm) 
+· ✅ Retry on errors with infinite retries 
+· ✅ Support for aria2 (optional, for faster downloads) 
 
 📋 Requirements
 
