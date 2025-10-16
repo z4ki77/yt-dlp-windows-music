@@ -66,7 +66,7 @@ Installation
 
 
 
-D:\\yt-dlp\\
+C:\\yt-dlp\\
 
 ├── yt-music.bat          (this script)
 
@@ -102,7 +102,7 @@ D:\\yt-dlp\\
 
 &nbsp;   Download aria2 and extract aria2c.exe
 
-&nbsp;   Place all .exe files in D:\\yt-dlp\\ffmpeg\\bin\\
+&nbsp;   Place all .exe files in C:\\yt-dlp\\ffmpeg\\bin\\
 
 
 
@@ -140,7 +140,7 @@ Usage
 
 &nbsp;       2 = Fast mode without thumbnail (faster)
 
-&nbsp;   Files will be saved to D:\\yt-dlp\\musique\\
+&nbsp;   Files will be saved to C:\\yt-dlp\\musique\\
 
 
 
@@ -148,7 +148,7 @@ Example output
 
 
 
-D:\\yt-dlp\\musique\\
+C:\\yt-dlp\\musique\\
 
 ├── Chill Lo-Fi Mix\\
 
@@ -190,7 +190,7 @@ Missing files error
 
 
 
-Make sure all .exe files are in D:\\yt-dlp\\ffmpeg\\bin\\:
+Make sure all .exe files are in C:\\yt-dlp\\ffmpeg\\bin\\:
 
 
 
