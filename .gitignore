@@ -1,0 +1,53 @@
+Executables (do not commit)
+
+*.exe
+*.dll
+*.so
+*.dylib
+Archives
+
+*.zip
+*.7z
+*.rar
+*.tar.gz
+Downloaded content (do not commit)
+
+musique/
+*.mp3
+*.mp4
+*.webm
+*.m4a
+*.wav
+Temporary and cache files
+
+*.json
+*.webp
+*.jpg
+*.png
+*.part
+*.m4a.part
+History and logs
+
+_history.txt
+*.log
+System files
+
+.DS_Store
+Thumbs.db
+*.tmp
+IDE and editor files
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+Node modules (if applicable)
+
+node_modules/
+Python cache (if applicable)
+
+pycache/ *.py[cod] *.egg-info/
+ffmpeg and dependencies folder
+
+ffmpeg/bin/.exe ffmpeg/bin/.dll
